@@ -36,7 +36,7 @@ const Hero = () => {
           {/* Profile Image Placeholder */}
           <div className="w-32 h-32 mx-auto mb-8 rounded-full bg-gradient-primary animate-glow-pulse"></div>
           
-          <h1 className="text-6xl md:text-7xl font-bold mb-4 bg-gradient-to-r from-primary-glow via-secondary-glow to-accent-glow bg-clip-text text-transparent animate-fade-in">
+          <h1 className="text-3xl md:text-3xl font-bold mb-4 bg-gradient-to-r from-primary-glow via-secondary-glow to-accent-glow bg-clip-text text-transparent animate-fade-in">
             Akash Reshwanth
           </h1>
           
